@@ -869,3 +869,20 @@ a {
     font-size: 38px;
   }
 }
+
+.nav .row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.logo img {
+  width: 55px;
+  margin-right: 19px;
+  border-radius: 30px;
+  height: auto;
+}
+.logo p {
+  margin: auto;
+  font-size: 40px;
+}
+
